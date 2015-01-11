@@ -1,0 +1,51 @@
+/* line 1, ../sass/main.sass */
+#homepage {
+  background: url("../images/home_bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  min-height: 569px;
+}
+
+/* line 9, ../sass/main.sass */
+.title {
+  font-family: Helvetica, arial;
+  font-size: 67px;
+  font-weight: 700;
+  color: white;
+  text-align: center;
+  height: 50px;
+  top: -350px;
+}
+
+/* line 18, ../sass/main.sass */
+.subtitle {
+  font-family: Helvetica, arial;
+  font-size: 25px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+  height: 30px;
+  top: -180px;
+}
+
+/* line 27, ../sass/main.sass */
+.email {
+  font-family: monospace, arial;
+  font-size: 20px;
+  font-weight: 300;
+  color: white;
+  text-align: center;
+  height: 30px;
+  top: -115px;
+}
+
+/* line 36, ../sass/main.sass */
+.Absolute-Center {
+  margin: auto;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
