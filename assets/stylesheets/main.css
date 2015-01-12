@@ -46,6 +46,13 @@
 }
 
 /* line 38, ../sass/main.sass */
+.mixpanel-box {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+/* line 43, ../sass/main.sass */
 .Absolute-Center {
   margin: auto;
   position: absolute;
