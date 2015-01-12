@@ -6,7 +6,7 @@ body {
 }
 
 /* line 8, ../sass/base.sass */
-h1, h2, h3, p {
+h1, h2, h3, p, a {
   -webkit-font-smoothing: antialiased;
 }
 

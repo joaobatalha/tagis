@@ -34,14 +34,18 @@
 .email {
   font-family: monospace, arial;
   font-size: 20px;
-  font-weight: 300;
+  font-weight: 100;
   color: white;
   text-align: center;
   height: 30px;
   top: -115px;
 }
+/* line 35, ../sass/main.sass */
+.email:hover {
+  color: white;
+}
 
-/* line 36, ../sass/main.sass */
+/* line 38, ../sass/main.sass */
 .Absolute-Center {
   margin: auto;
   position: absolute;
